@@ -12,6 +12,24 @@
 
 ---
 
+## ArcKit
+
+感谢 SpecKit，欢迎大家加入 SDD 大家庭。
+
+该项目基于 GitHub SpecKit 构建，我们完全认同 SDD 和 SpecKit 理念。并基于自身 AI 实践进行能力补充，旨在进一步具象化实际项目开发规范，进一步简化实际项目落地过程。
+
+如果你是首次接触 SDD 和 SpecKit，或者想深入学习，可以查看我们整理的学习教程：https://github.com/feitianchengzi/spec-kit/blob/learn-spec-kit/learn-spec-kit/README.md
+
+ArcKit 的安装，将 `specify` 命令改为 `arc` 即可。注意暂时 ArcKit 和 SpecKit 无法同时安装到同一项目，如果你的已有项目希望改用 ArcKit，可以先手动删除 SpecKit 安装的相关文件。
+
+ArcKit 扩展能力清单：
+- 待补充
+
+ArcKit 扩展能力的学习资料后续补充。
+
+如果你认同飞天橙子的技术选型，欢迎共同维护 ArcKit。
+如果你希望构建自己团队的开发流程，可以参考 ArcKit，在 SpecKit 的基础上自行构建。
+
 ## Table of Contents
 
 - [🤔 What is Spec-Driven Development?](#-what-is-spec-driven-development)
